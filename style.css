@@ -31,3 +31,11 @@
 .card {
   width: 50rem;
 }
+
+.card.card-1 {
+  border-color: transparent;
+  width: 20rem;
+  height: 30rem;
+  justify-content: center;
+  align-items: center;
+}
