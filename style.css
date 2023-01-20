@@ -18,6 +18,9 @@
   margin: 0 auto;
 }
 
+.btn {
+  border-color: transparent;
+}
 .img-wrapper img {
   max-width: 100%;
   max-height: 100%;
